@@ -43,7 +43,7 @@
 
 I'm open to collaboration, internships, or full‑time opportunities in data science / AI engineering.
 
-- 📧 Email me through [nikulkumar.me](https://nikulkumar.me)
+- 📧 Email me through [nikulkumar.gola@gmail.com](mailto:nikulkumar.gola@gmail.com)
 - 💬 [LinkedIn](https://www.linkedin.com/in/nikul-kumar-b101b9214/)
 - 🐙 [GitHub](https://github.com/NIKUL121003)
 - 📞 +91 7557445050
